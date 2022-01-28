@@ -1,2 +1,2 @@
 # Python
-Python study
+Python 课件学习
